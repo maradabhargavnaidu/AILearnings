@@ -1,0 +1,3 @@
+Embeddings are numerical vector representations of text. 
+They help machines understand semantic meaning by converting words, sentences, 
+or documents into high-dimensional vectors that capture relationships between texts.

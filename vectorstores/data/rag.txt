@@ -1,0 +1,3 @@
+In a RAG pipeline, documents are converted into embeddings and stored in a vector database. 
+When a user asks a question, the query is also converted into an embedding, and cosine similarity 
+is used to retrieve the most relevant documents before generating the final answer.

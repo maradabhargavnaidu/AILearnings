@@ -1,0 +1,14 @@
+Python is a high-level, easy-to-learn programming language widely used for web development, automation, artificial intelligence, data science, backend APIs, and scripting. It is popular because of its simple syntax, huge library ecosystem,
+     and strong community support. Frameworks and tools like Django, FastAPI, and LangChain make Python 
+     one of the most preferred languages for modern software and AI development.
+     Python is a high-level, easy-to-learn programming language widely used for web development, automation, artificial intelligence, data science, backend APIs, and scripting. It is popular because of its simple syntax, huge library ecosystem,
+     and strong community support. Frameworks and tools like Django, FastAPI, and LangChain make Python 
+     one of the most preferred languages for modern software and AI development.
+     Python is a high-level, easy-to-learn programming language widely used for web development, automation, artificial intelligence, data science, backend APIs, and scripting. It is popular because of its simple syntax, huge library ecosystem,
+     and strong community support. Frameworks and tools like Django, FastAPI, and LangChain make Python 
+     one of the most preferred languages for modern software and AI development.
+     Python is a high-level, easy-to-learn programming language widely used for web development, automation, artificial intelligence, data science, backend APIs, and scripting. It is popular because of its simple syntax, huge library ecosystem,
+     and strong community support. Frameworks and tools like Django, FastAPI, and LangChain make Python 
+     one of the most preferred languages for modern software and AI development.
+
+     

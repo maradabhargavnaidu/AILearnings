@@ -1,0 +1,3 @@
+Cosine similarity is a mathematical technique used to measure how similar two vectors are. 
+Instead of comparing exact words, it compares the angle between vectors, making it useful 
+for semantic search, recommendation systems, and Retrieval-Augmented Generation (RAG) applications.
